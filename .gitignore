@@ -1,0 +1,12 @@
+# Portfolio database and logs — local state, never in git
+data/
+*.db
+*.sqlite
+
+# Python
+__pycache__/
+*.pyc
+.venv/
+
+# Secrets
+.env
