@@ -26,7 +26,7 @@ The AI analyzes — the code enforces limits.
 
 ## Status
 
-- [x] Step 1: `fetch_data.py` — batched price fetch via yfinance
+- [ ] Step 1: `fetch_data.py` — batched price fetch via yfinance
 - [ ] Step 2: `fetch_news.py` — MFN + Placera RSS, filtered by watchlist
 - [ ] Step 3: SQLite schema (portfolio, trades, decisions, snapshots)
 - [ ] Step 4: `portfolio.py` — propose/approve/reject CLI with risk rules
